@@ -1,4 +1,29 @@
-baseURL = 'https://www.informatyk24.net.pl'
+baseURL = 'https://www.itsupport.local'
 languageCode = 'en-us'
-title = 'Information Technology — Portfolio'
+title = 'IT Specialist — Computer Repair & Support'
 theme = 'ananke'
+
+[params]
+  author = "IT Specialist"
+  description = "Professional computer repair, maintenance, and IT support services"
+  github = ""
+  linkedin = ""
+  email = "contact@itsupport.local"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4

@@ -1,48 +1,73 @@
 +++
-title = "Information Technology — Informatyk24"
+title = "IT Specialist — Computer Repair & Support"
 date = "2026-07-16"
 draft = false
 +++
 
 <!-- Hero -->
 
-# Informatyk24 — IT Services
+# Professional Computer Repair & IT Support
 
-Professional IT services: web development, cloud, networks, security, and automation.
+Fast, reliable computer repair and IT support for individuals and small businesses.
 
-[Our services](#services) · [Projects](#projects) · [Contact](#contact)
+[My Services](#services) · [Expertise](#expertise) · [Contact](#contact)
 
 ---
 
 ## About
 
-Informatyk24 delivers practical IT solutions for small businesses and professionals: fast websites, reliable infrastructure, and secure deployments. Work examples include responsive web apps, automation scripts, and cloud-hosted services.
+Experienced IT specialist with a passion for solving technical problems quickly and efficiently. I provide comprehensive computer repair, maintenance, and support services to keep your systems running smoothly. From hardware issues to software optimization, I deliver professional solutions backed by years of hands-on experience.
 
 ---
 
 ## Services {#services}
 
-- Web development (Hugo, React, static & dynamic sites)
-- Infrastructure & DevOps (Docker, Kubernetes, CI/CD)
-- Cloud deployments (AWS, GCP, Azure)
-- Network & Security (hardening, monitoring, backups)
-- Automation & Scripting (Python, Bash, Go)
+- **Computer Repair & Troubleshooting** — Hardware diagnostics, component replacement, virus/malware removal
+- **System Optimization** — Performance tuning, driver updates, disk cleanup, system maintenance
+- **Network Setup & Support** — WiFi configuration, network security, printer setup, connectivity issues
+- **Data Recovery** — Hard drive recovery, backup solutions, data transfer services
+- **Software Installation & Support** — OS installation, software troubleshooting, user training
+- **On-Site Support** — Home and business visits for comprehensive IT support
+- **Remote Assistance** — Quick remote diagnostics and repairs via secure connection
 
 ---
 
-## Projects {#projects}
+## Expertise {#expertise}
 
-See Projects page for case studies and source links.
+**Hardware**
+- Desktop and laptop repair
+- Component diagnostics and replacement
+- Printer and peripheral troubleshooting
+
+**Software**
+- Windows, macOS, and Linux systems
+- Virus and malware removal
+- Software licensing and deployment
+
+**Services**
+- Emergency repair response
+- Preventive maintenance plans
+- Competitive pricing with transparent quotes
+
+---
+
+## Why Choose Me?
+
+✓ Fast turnaround times  
+✓ Competitive, transparent pricing  
+✓ Professional and courteous service  
+✓ Years of hands-on experience  
+✓ On-site and remote support options
 
 ---
 
 ## Contact {#contact}
 
-Email: tequillafish@gmail.com  
-Website: https://www.Informatyk24.net.pl  
-Phone: +48 739 063 405
+Ready to get your computer fixed? Reach out today!
 
----
+**Email:** contact@itsupport.local  
+**Phone:** (555) 123-4567  
+**Hours:** Monday-Friday 9 AM - 6 PM, Saturday 10 AM - 4 PM
 
-Replace any placeholder text with your preferred copy and links.
+[Contact Form](/contact/)
 
