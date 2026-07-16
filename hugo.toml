@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://www.informatyk24.net.pl'
 languageCode = 'en-us'
 title = 'Information Technology — Portfolio'
 theme = 'ananke'
