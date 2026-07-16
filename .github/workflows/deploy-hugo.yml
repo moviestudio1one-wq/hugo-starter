@@ -3,7 +3,7 @@ name: Build and Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - moviestudio1one-wq-information-technology
+      - main
 
 jobs:
   build-deploy:
