@@ -9,3 +9,13 @@ theme = "ananke"
   github = "https://github.com/yourusername"
   linkedin = "https://www.linkedin.com/in/yourusername"
   # Add more social links if desired
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Card"
+    url = "/business-card/"
+    weight = 2
