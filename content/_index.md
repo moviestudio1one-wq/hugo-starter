@@ -1,13 +1,14 @@
 +++
-title = "Home"
+title = "Information Technology Portfolio"
 date = "2026-07-16"
+draft = false
 +++
 
 <!-- Hero -->
 
-# Hi — I'm Your Name
+# Information Technology
 
-Developer · Designer · Problem Solver
+Developer · Systems & Web Engineer · Problem Solver
 
 [View my work](#projects) · [Contact me](#contact)
 
@@ -15,31 +16,29 @@ Developer · Designer · Problem Solver
 
 ## About
 
-I build fast, accessible web experiences. I specialize in JavaScript, static site generators, and design systems. This site is a simple Hugo one-page portfolio using the Ananke theme.
+I’m an Information Technology professional specializing in web development, systems administration, and cloud solutions. This portfolio highlights responsive websites, full‑stack projects, network and security work, automation scripts, deployment notes, and case studies. Browse Projects, read technical write‑ups, and contact me for collaborations or consulting.
 
 ---
 
 ## Projects {#projects}
 
-### Project One
-Short description of project one. Technologies: Hugo, JS.
+### Sample Project — Web App
+A responsive full‑stack web application demonstrating frontend design, REST APIs, authentication, and automated deployment.
+Technologies: HTML/CSS, JavaScript, Go/Python, Docker, CI/CD.
 
-### Project Two
-Short description of project two. Technologies: React, Node.
-
-### Project Three
-Short description of project three. Technologies: Design, Figma.
+(Replace these placeholders with your real project pages by adding files under content/posts/ or linking to external repos.)
 
 ---
 
 ## Contact {#contact}
 
-Email: [you@example.com](mailto:you@example.com)
-
-LinkedIn: https://www.linkedin.com/in/yourusername
-
-GitHub: https://github.com/yourusername
+Email: tequillafish@gmail.com  
+Website: https://www.Informatyk24.net.pl  
+Phone: +48 739 063 405  
+GitHub: https://github.com/yourusername (replace with yours)  
+LinkedIn: https://www.linkedin.com/in/yourusername (replace with yours)
 
 ---
 
-*Replace text and links with your real content and images. Add project pages under content/projects/ if you want per-project pages.*
+Replace placeholders and links with your preferred real URLs and names.
+
