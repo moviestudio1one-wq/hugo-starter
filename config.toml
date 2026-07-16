@@ -1,0 +1,21 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Your Name — Portfolio"
+theme = "ananke"
+
+[params]
+  author = "Your Name"
+  description = "A developer / designer portfolio built with Hugo and the Ananke theme."
+  github = "https://github.com/yourusername"
+  linkedin = "https://www.linkedin.com/in/yourusername"
+  # Add more social links if desired
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Card"
+    url = "/business-card/"
+    weight = 2
