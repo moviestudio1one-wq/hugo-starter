@@ -1,14 +1,12 @@
-baseURL = 'https://www.itsupport.local'
+baseURL = 'https://moviestudio1one-wq.github.io/hugo-starter/'
 languageCode = 'en-us'
 title = 'IT Specialist — Computer Repair & Support'
+author = 'IT Specialist'
 theme = 'ananke'
 
 [params]
-  author = "IT Specialist"
   description = "Professional computer repair, maintenance, and IT support services"
-  github = ""
-  linkedin = ""
-  email = "contact@itsupport.local"
+  contact_email = "contact@itsupport.local"
 
 [menu]
   [[menu.main]]
